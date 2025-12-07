@@ -22,11 +22,7 @@ class AccountScreen extends StatelessWidget {
 
             const SizedBox(height: 30),
 
-            // Profile Picture
-            const CircleAvatar(
-              radius: 55,
-              backgroundImage: AssetImage("assets/kiko.jpg"), // sample picture
-            ),
+            
 
             const SizedBox(height: 20),
 
